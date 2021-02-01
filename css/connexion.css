@@ -1,0 +1,21 @@
+.main_connexion {
+    /*background*/
+    min-height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+	
+	background-size: 50%;
+}
+
+.deco_main[type=submit] {
+    /*deco bouton*/
+    padding: 20px 15px;
+    background: rgb(29, 128, 45);
+    border: 0 none;
+    cursor: pointer;
+    border-radius: 1em;
+    color: white;
+    min-width: 10vh;
+}
